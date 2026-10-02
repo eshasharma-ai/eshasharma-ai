@@ -1,11 +1,12 @@
 <p align="left"><p align="center"><br>  <img src="https://media0.giphy.com/media/l3vR0P9Xq1TQ4FCQo/giphy.gif" alt="Centered GIF Banner" style="width: 100%; height: auto;" /><br></p>
 </p>
-<h1 align="center">Hey there 👋 Curious about how AI products actually fail their users? <br>You're in the right place 🧠</h1>
+
+<h1 align="center">Hey there 👋 I turn data and GenAI into insights, experiments, and better decisions. <br>You're in the right place 📊🧠</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/workwitheesha/" target="_blank">
+  <a href="https://www.linkedin.com/in/eshasharma-ai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:workwitheesha@gmail.com" target="_blank">
@@ -15,11 +16,11 @@
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
 ###
 
-<p align="center">Hi, I'm Esha Sharma 👋<br> ֎ AI Product Manager<br>📊 Turning user problems into product decisions<br><br>Curious about AI products, product strategy, and how user trust actually works? You're in the right place.<br><br>I specialize in writing PRDs, running product teardowns, and researching how AI products fail their users, then designing the solutions.<br><br>What I do<br>📋 PRD Writing → End-to-end product specs with user research, RICE prioritization, and rollout plans<br>🔍 Product Teardowns → Identifying systemic failures connected to real business metrics<br>🤖 AI Trust Research → Documenting how and where AI products fail, with evidence<br>📊 Data & Analytics → SQL, Python, A/B testing, cohort modeling, retention analysis<br><br>Currently working on<br>AI PM portfolio projects, PRDs, teardowns, and trust research<br>LLM fine-tuning and AI product behavior analysis<br>Metrics frameworks for AI-specific product failures<br>Building in public before being hired<br><br>Featured projects<br>🧠 AI Trust & Failure Analysis — Independent Research<br>Tested ChatGPT, Claude, and Gemini across 5 real task types<br>Defined 5-type failure taxonomy with real observed evidence<br>Built Trust Recovery Framework and 5-metric KPI system including Silent Failure Rate<br>Delivered VP-level executive memo on confidence signaling as highest-ROI retention lever<br>https://eshasharma.notion.site/AI-Trust-Failure-Analysis-36599496b51c80f29222d6678d9a7734?source=copy_link<br><br>📋 Notion AI — Workspace Memory Layer PRD<br>Designed end-to-end concept PRD for a missing Notion AI feature<br>User research, RICE prioritization, AI privacy framework, 6-week MVP scope<br>https://eshasharma.notion.site/The-Missing-Layer-A-PRD-for-Persistent-Context-in-Notion-AI-36399496b51c80aebc92cb95e78b2980?source=copy_link<br><br>📉 Perplexity AI — Product Teardown<br>Identified 3 systemic product problems connected to retention and trust<br>Designed 3 prioritized feature recommendations with target metrics<br>Defined Northstar metric: Weekly Research Return Rate<br>https://eshasharma.notion.site/Perplexity-AI-Independent-Product-Teardown-35e99496b51c80c18b61db2650082d4f?source=copy_link<br><br>📊 Olist E-Commerce Funnel & Retention Analysis<br>Analyzed 100K+ real-world e-commerce orders using SQL and Python<br>Identified funnel drop-offs and cohort retention trends revealing ~30–35% month-2 churn<br>Built Tableau dashboard and delivered 3 prioritized fixes projecting 15–20% retention improvement<br>https://github.com/promptedbyesha/Olist-Ecommerce-Analysis<br><br>Tools and skills<br>Product<br>PRD Writing, RICE Prioritization, User Research, Product Teardowns, Metrics Design<br><br>AI & Analytics<br>SQL, Python (pandas, scipy), Tableau, Power BI, LLM Fine-tuning<br><br>Business skills<br>Stakeholder Communication, Decision Memos, KPI Frameworks, A/B Testing<br><br>🤝🏻 Connect with me:<br>📧 Email: workwitheesha@gmail.com<br>LinkedIn: https://www.linkedin.com/in/workwitheesha/<br>Portfolio: https://workwitheesha.framer.website/</p>
+<p align="center">Hi, I'm Esha Sharma 👋<br> ֎ Data Analyst | Data Science & GenAI<br>📊 Turning raw data into insights and actionable decisions<br><br>I'm an MCA student building hands-on projects across data analytics, experimentation, business intelligence, and Generative AI.<br><br>I enjoy taking ambiguous questions, breaking them down with data and research, and turning the results into structured recommendations.<br><br>What I do<br>📊 Data Analysis → SQL, Python, cohort analysis, funnel analysis, and retention analysis<br>🧪 Experimentation → A/B testing, hypothesis testing, statistical analysis, and experiment insights<br>📈 BI & Visualization → Power BI, Tableau, KPI dashboards, and data storytelling<br>🤖 Generative AI → LLM evaluation, prompt engineering, AI product research, and failure-mode analysis<br>🔍 AI Product Research → Studying how AI products behave, where they fail, and how those failures can be measured<br><br>Currently working on<br>Data analytics and GenAI portfolio projects<br>LLM evaluation and AI reliability research<br>Product analytics, experimentation, and KPI frameworks<br>Building practical projects alongside my MCA<br><br>Featured projects<br>🧠 AI Trust & Failure Analysis — Independent Research<br>Tested 3 AI products across 5 task types to identify recurring reliability patterns<br>Built a 5-type failure taxonomy based on observed model behavior<br>Developed a 5-metric KPI system including Silent Failure Rate<br>https://eshasharma.notion.site/AI-Trust-Failure-Analysis-36599496b51c80f29222d6678d9a7734?source=copy_link<br><br>📋 Notion AI — Workspace Memory Layer PRD<br>Designed a 10-section PRD using user research, RICE prioritization, and privacy-first architecture<br>Defined a 6-week MVP scope with success metrics, guardrails, and a kill condition<br>https://eshasharma.notion.site/The-Missing-Layer-A-PRD-for-Persistent-Context-in-Notion-AI-36399496b51c80aebc92cb95e78b2980?source=copy_link<br><br>📉 Perplexity AI — Independent Product Teardown<br>Identified 3 systemic retention problems through Reddit-based user research<br>Designed 3 feature recommendations, each tied to a measurable target metric<br>Defined the North Star metric as Weekly Research Return Rate<br>https://eshasharma.notion.site/Perplexity-AI-Independent-Product-Teardown-35e99496b51c80c18b61db2650082d4f?source=copy_link<br><br>📊 Olist E-Commerce Funnel & Retention Analysis<br>Analyzed 99K+ orders from a public Brazilian e-commerce dataset using SQL and Python<br>Mapped a 4-stage funnel and analyzed cohort retention across product categories<br>Built a Tableau cohort dashboard revealing ~30–35% month-2 churn and proposed 3 data-backed retention fixes<br>https://github.com/promptedbyesha/Olist-Ecommerce-Analysis<br><br>📈 Product Feature Adoption & A/B Test Analysis<br>Simulated a 5,000-user dataset in Python and ran chi-square significance testing<br>Identified a +23.7% Day 7 retention lift for new users with statistically significant results<br>Built a 4-page Power BI dashboard and developed a ship/iterate recommendation based on statistical evidence<br><br>Tools and skills<br>Data Analysis<br>SQL, PostgreSQL, Python (pandas, NumPy, SciPy), Excel, Hypothesis Testing, A/B Testing, Cohort Analysis, Funnel Analysis<br><br>Generative AI<br>LLM Evaluation, Prompt Engineering, AI Product Research, Failure-Mode Analysis, Responsible AI<br><br>BI & Visualization<br>Power BI, Tableau Public, KPI Dashboards, Data Storytelling<br><br>Tools<br>Google Sheets, Notion, GitHub<br><br>🎓 Education<br>MCA — ABES Engineering College | AKTU | 2026–2028<br>BCA — IMS Noida | CCSU | 2022–2025<br><br>🤝🏻 Connect with me:<br>📧 Email: workwitheesha@gmail.com<br>LinkedIn: https://www.linkedin.com/in/workwitheesha/<br>Portfolio: https://workwitheesha.framer.website/</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="350" />
@@ -217,7 +218,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -239,14 +240,14 @@
 
 ### 🤝 Let's Connect!
 
-Got an AI product problem that needs sharper thinking? A team building something in the AI space? <br>
-Or just want to geek out about trust metrics and failure taxonomies at 2am? I'm in.
+Interested in data analytics, GenAI, experimentation, or AI product research? <br>
+I'm always open to connecting, exchanging ideas, and exploring interesting problems at the intersection of data and AI.
 
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workwitheesha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/workwitheesha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white)](https://workwitheesha.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshasharma-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white)](https://eshasharma-ai.framer.website/)
 
 <br>
 
@@ -254,14 +255,14 @@ Or just want to geek out about trust metrics and failure taxonomies at 2am? I'm 
 
 ### ⚡ Fun Fact
 
-I can look at an AI product failure and immediately think of three product solutions. 🧠 <br>
-I've probably written more PRDs than I've taken vacations, that's a metric I'm actively fixing. 📋 → 🏖️
+I enjoy turning messy questions into structured analysis, measurable experiments, and actionable insights. 📊 <br>
+Currently building my skills across data analytics, GenAI, and product thinking alongside my MCA. 🚀
 
 <br>
 
 ---
 
-*Made with 💛 by Esha · turning AI behavior into product decisions, one framework at a time*
+*Made with 💛 by Esha · turning data and GenAI into insights, experiments, and better decisions*
 
 <br>
 
